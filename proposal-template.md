@@ -1,12 +1,9 @@
-# Ridiculously Catchy Title
-## Super Catchy Slogan
+# Don't Sleep
+## Because sleeping in lectures is for sissies
 
 Group members: 
-* Apple
-* Banana
-* Char Kway Teow
-
-Feel free to change the headers, but do address the points raised. 
+* Samuel Ong
+* Andrew Yap
 
 ## Audience
 Whose problems are we trying to solve?
