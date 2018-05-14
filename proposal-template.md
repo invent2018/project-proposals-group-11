@@ -10,13 +10,13 @@ Students in secondary/tertiary institutions with gruelling long school hours and
 Workers in the office having trouble paying attention during meetings
 
 ## Problems
-1. People often sleep during lectures
+1. People often sleep during lectures - 
 There is no effective way to get them to focus as if they are sleepy, as they will keep dropping off again and again even if jolted awake by their friends.
 
-2. Disrupting lessons
+2. Disrupting lessons - 
 Calling out students who fall asleep is very disruptive to the lessons that the teachers are conducting. Sleeping also shows a lack of respect to the lecturer and causes students to fall behind on their learning.
 
-3. Coffee is not a good solution
+3. Coffee is not a good solution - 
 Studies show that adolescents should not be drinking so much coffee too keep themselves awake as it is detrimental to their health.
 
 ## Solution
