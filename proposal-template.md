@@ -6,8 +6,9 @@ Group members:
 * Andrew Yap
 
 ## Audience
-Students in secondary/tertiary institutions with gruelling long school hours and endless tiring lectures
-Workers in the office having trouble paying attention during meetings
+1.Students in secondary/tertiary institutions with gruelling long school hours and endless tiring lectures
+
+2. Workers in the office having trouble paying attention during meetings
 
 ## Problems
 1. People often sleep during lectures - 
