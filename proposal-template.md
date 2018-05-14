@@ -6,7 +6,7 @@ Group members:
 * Andrew Yap
 
 ## Our Target Audience
-1.Students in secondary/tertiary institutions with gruelling long school hours and endless tiring lectures
+1. Students in secondary/tertiary institutions with gruelling long school hours and endless tiring lectures
 
 2. Workers in the office having trouble paying attention during meetings
 
