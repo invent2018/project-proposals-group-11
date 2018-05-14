@@ -24,12 +24,14 @@ Studies show that adolescents should not be drinking so much coffee too keep the
 Contains a micro-bit with a heart rate and galvanic sensor, that measures your resting heart rate. When the heart rate falls far below the average (indicating sleep) the band will vibrate to wake you up or deliver a small electric shock after a certain amount of time.
 
 ## Assumptions
-Students care enough to stay awake during lectures to pay money for it
-Students are willing to endure pain to stay awake during lectures
+1. Students care enough to stay awake during lectures to pay money for it
+
+2. Students are willing to endure pain to stay awake during lectures
+
+3. Students cannot rely on their fellow classmates to constantly wake them up
 
 ## Unique Selling Point
 Some products like this exist on the market but they are expensive (more than 100USD) and not catered to students who are broke. Furthermore, they are mostly not readily available in Singapore. Additionally, this is an automated method to wake students up which is highly efficient and saves the effort of the teachers.
 
 ## Competitors
-What competitors are there? List 5. Surely you can google 5.
-Why are we better or different?
+STEER - a wearable band that warns drivers who are about to fall asleep at the wheel with a small electric shock. Innovative idea but with a prohibitively high unit cost and unreliable shipping (the company has gone bust as of May 2018)
