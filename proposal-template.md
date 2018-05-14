@@ -5,8 +5,9 @@ Group members:
 * Samuel Ong
 * Andrew Yap
 
-## Audience
+## Our Target Audience
 1.Students in secondary/tertiary institutions with gruelling long school hours and endless tiring lectures
+
 2. Workers in the office having trouble paying attention during meetings
 
 ## Problems
@@ -19,15 +20,14 @@ Calling out students who fall asleep is very disruptive to the lessons that the 
 3. Coffee is not a good solution - 
 Studies show that adolescents should not be drinking so much coffee too keep themselves awake as it is detrimental to their health.
 
-## Solution
-What’s your solution, in one sentence? 
-Can you find an analogy to describe it? 
+## Our solution: A wearable band
+Contains a micro-bit with a heart rate and galvanic sensor, that measures your resting heart rate. When the heart rate falls far below the average (indicating sleep) the band will vibrate to wake you up or deliver a small electric shock after a certain amount of time.
 
 ## Assumptions
-What assumptions are we making that the project depends on?
+
 
 ## Unique Selling Point
-Our version will succeed because
+Some products like this exist on the market but they are expensive (more than 100USD) and not catered to students who are broke. Furthermore, they are mostly not readily available in Singapore. Additionally, this is an automated method to wake students up which is highly efficient and saves the effort of the teachers.
 
 ## Competitors
 What competitors are there? List 5. Surely you can google 5.
