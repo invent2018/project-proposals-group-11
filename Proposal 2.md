@@ -1,4 +1,4 @@
-#Shoppest 
+# Shoppest 
 ## Our target audience 
 
 1. People in Singapore who would rather buy things online than go to a trusted retailer. 
