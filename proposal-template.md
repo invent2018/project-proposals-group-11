@@ -27,11 +27,11 @@ It also recommends cards that you might want to obtain if you have been spending
 2. Existing apps focus more on saving cash in general via expenditure tracking rather than specifically targeting credit cards
 
 ## Competitors
-Wallaby - an Application based in the US that allows US citizens to compare credit cards and acts as a personal accounting app.
+Wallaby - an application based in the US that allows US citizens to compare credit cards and acts as a personal accounting app.
 
 ## Limitations
 1. The necessity to constantly update the app with the latest credit card details
--can this possibly be done automatically?
+- can this possibly be done automatically?
 
 2. User still needs to key in location of store and quantity of purchase
--build in location tracking to simplify the process?
+- build in location tracking to simplify the process?
