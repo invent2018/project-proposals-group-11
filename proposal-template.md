@@ -14,16 +14,20 @@ Many working professionals own multiple credit cards as each card has different 
 ## Our solution: Credit Card Chooser
 An app with access to a database of all the different credit card benefits. The user can input the retail outlet they are buying from, and the app will tell the user which credit card to use in order to maximise gains, as well as the exact amount saved compared to other credit cards.
 
+It also recommends cards that you might want to obtain if you have been spending at a particular location but don't yet have a card to maximise the benefits.
+
 ## Assumptions
-1. People would want to download an app to save marginal sums of money
+1. People would want to download an app to save very marginal sums of money
 
 2. Those who own multiple credit cards find it difficult to memorise the benefits for each card
 
 ## Unique Selling Point
-No products like this exist in Singapore
+1. No products like this exist in Singapore
+
+2. Existing apps focus more on saving cash in general via expenditure tracking rather than specifically targeting credit cards
 
 ## Competitors
-Wallaby - an Application based in the US that allows US citizens to compare credit cards and acts as a pesronal accounting app.
+Wallaby - an Application based in the US that allows US citizens to compare credit cards and acts as a personal accounting app.
 
 ## Limitations
 1. The necessity to constantly update the app with the latest credit card details
