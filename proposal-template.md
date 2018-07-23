@@ -1,4 +1,4 @@
-# Credit Card Manager
+# Dealbreaker
 ## Keeping you up to date on the spiciest deals
 
 Group members: 
